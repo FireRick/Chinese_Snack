@@ -7,7 +7,7 @@ categories: Chinese_snacks_DIY
 
 # Marinated Egg
 
-![Marinated Egg]({{site.baseurl}}/img/452598/452598.jpg)
+![Marinated Egg]({{site.baseurl}}/img/447837/447837.jpg)
 
 # Materials
 
@@ -16,66 +16,68 @@ categories: Chinese_snacks_DIY
 
 Material|Quantity
 --|--
-Egg|Eight to ten.
-Clean water|Bowl
+Egg|20
 
 ## accessories
 
 Material|Quantity
 --|--
-soy sauce|Appropriate amount
-monosodium glutamate|Appropriate amount
-Salt|Appropriate amount
-ginger|Half
-Thirteen incense|Appropriate amount
+Sichuan Pepper|Few
+Star anise|3
+Fragrant leaf|3 tablets
+Chinese cinnamon|Few
+Sugar|Few
+salt|3 scoops
+Soy sauce|1 scoops
+Old soy sauce|2 scoops
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Maotai flavor
-Technology|cook
-time consuming|Hours
-difficulty|ordinary
+Flavor|Salty fragrance
+Technology|halogen
+time consuming|Semih.
+difficulty|simple
 
 # Steps
 
 ## step 1:
 
-Prepare ingredients and boiled eggs, which is more delicious.
+Rinse the eggs first.
 
-![step 1]({{site.baseurl}}/img/452598/1.jpg)
+![step 1]({{site.baseurl}}/img/447837/1.jpg)
 
 ## step 2:
 
-Ginger slices.
+Put the pepper, anise, fragrant leaves and cinnamon in the feeding box, cover tightly and set aside.
 
-![step 2]({{site.baseurl}}/img/452598/2.jpg)
+![step 2]({{site.baseurl}}/img/447837/2.jpg)
 
 ## step 3:
 
-Add oil to the pan, stir-fry ginger, spicy can be some pepper.
+Put the eggs into the pot, add some water, salt, raw smoke, old smoke, sugar, material box, boil over high heat for 10 minutes, break the skin of each egg, turn low heat to boil for 20 minutes and turn off the fire.
 
-![step 3]({{site.baseurl}}/img/452598/3.jpg)
+![step 3]({{site.baseurl}}/img/447837/3.jpg)
 
 ## step 4:
 
-Boil with water, put the eggs in, "Boil and add all the flavors, close the lid and boil, the eggs will taste.
+Remove the eggs and put them in a container.
 
-![step 4]({{site.baseurl}}/img/452598/4.jpg)
+![step 4]({{site.baseurl}}/img/447837/4.jpg)
 
 ## step 5:
 
-After boiling, you can taste it carefully.
+Pour in the boiled egg soup and soak for one night.
 
-![step 5]({{site.baseurl}}/img/452598/5.jpg)
+![step 5]({{site.baseurl}}/img/447837/5.jpg)
 
 # Tips
 
-Hard-working friends can cross the eggs and cook them for a few more minutes to make them taste better.
+Works from the Fast Walking Life in the World of Gourmet Food
 
 # Info
 
-- From the world of gourmet food to see delicious works on the _________________
-- Cooking utensils used: others
+- Works from the Fast Walking Life in the World of Gourmet Food
+- Cooking utensils used: cooking pots
 - Classification: snacks, home-cooked dishes, breakfast

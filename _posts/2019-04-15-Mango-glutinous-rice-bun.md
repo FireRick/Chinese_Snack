@@ -7,146 +7,106 @@ categories: Chinese_snacks_DIY
 
 # Mango glutinous rice bun
 
-![Mango glutinous rice bun]({{site.baseurl}}/img/452816/452816.jpg)
+![Mango glutinous rice bun]({{site.baseurl}}/img/451790/451790.jpg)
 
 # Introduction
 
-**"The glutinous rice paste Q made by this recipe is delicious and soft."**
+**"Mango glutinous rice dumpling is a famous traditional flavor spot in Guangdong, which is made of mango and glutinous rice flour. It belongs to Cantonese cuisine.Mango has the effect of dispelling disease and relieving cough. It has the auxiliary dietary therapy for cough, phlegm, asthma and other diseases.**
 
 # Materials
 
 
-## Main Material (50g or about 10)
+## Main material
 
 Material|Quantity
 --|--
-Glutinous rice flour|165g
-corn starch|15g
-Sugar|70g
-Coconut milk|200ml
-milk|80ml
-Corn oil|1 tablespoons
+Glutinous rice flour|150g
+Small platform|3
 
-## Mixed ingredients
+## accessories
 
 Material|Quantity
 --|--
-Mango|3
-Coconut silk|Appropriate amount
+Sugar|40g
+Powdered Milk|20g
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Sweet smell
-Technology|Skill
-time consuming|An hour
-difficulty|ordinary
+Flavor|Other
+Technology|steam
+time consuming|Semih.
+difficulty|simple
 
 # Steps
 
 ## step 1:
 
-Stir all the materials in the main material to a non-granular paste.
+Prepare 150 grams of glutinous rice flour, 20 grams of milk powder and 40 grams of sugar.
 
-![step 1]({{site.baseurl}}/img/452816/1.jpg)
+![step 1]({{site.baseurl}}/img/451790/1.jpg)
 
 ## step 2:
 
-Flat chassis is oiled and sticky.Oil is extra.)
+I use this brand of milk powder or pure milk.
 
-![step 2]({{site.baseurl}}/img/452816/2.jpg)
+![step 2]({{site.baseurl}}/img/451790/2.jpg)
 
 ## step 3:
 
-Pour the batter into the plate.
+Add water to mix into paste can not be too thin, or not successful, water can not be too little or too hard, like the picture when stirring, leaving chopsticks stirring trace can be left, and then steamed on the pot for 15-20 minutes.
 
-![step 3]({{site.baseurl}}/img/452816/3.jpg)
+![step 3]({{site.baseurl}}/img/451790/3.jpg)
 
 ## step 4:
 
-Put in a boiling pot and steam for 30 minutes.
+After steaming, take it out and air it for a while. It can start when it's warm.
 
-![step 4]({{site.baseurl}}/img/452816/4.jpg)
+![step 4]({{site.baseurl}}/img/451790/4.jpg)
 
 ## step 5:
 
-Steam well and stick it in with chopsticks. It's ripe without white pulp sticking.
+The tray is ready to be put into the coconut pavement.
 
-![step 5]({{site.baseurl}}/img/452816/5.jpg)
+![step 5]({{site.baseurl}}/img/451790/5.jpg)
 
 ## step 6:
 
-Stir clockwise with chopsticks. The longer the stirring, the more Q-bullet.
+I chose a small Taimang just the size.
 
-![step 6]({{site.baseurl}}/img/452816/6.jpg)
+![step 6]({{site.baseurl}}/img/451790/6.jpg)
 
 ## step 7:
 
-When steaming the batter, slice the mango slightly bigger dices.
+Take a small sticky rice ball and dip it in a tray covered with coconut, then knead it flat.
 
-![step 7]({{site.baseurl}}/img/452816/7.jpg)
+![step 7]({{site.baseurl}}/img/451790/7.jpg)
 
 ## step 8:
 
-Prepare coconut shreds.
+Cut down two pieces of mango, put them on the glutinous rice bun, and then live on four breads.
 
-![step 8]({{site.baseurl}}/img/452816/8.jpg)
+![step 8]({{site.baseurl}}/img/451790/8.jpg)
 
 ## step 9:
 
-You can wrap the dough without ironing your hands. Take 50g of dough and press it flat on the fresh-keeping film.(Anti-stick gloves can also be worn.)
+Soft and waxy, very good taste.
 
-![step 9]({{site.baseurl}}/img/452816/9.jpg)
+![step 9]({{site.baseurl}}/img/451790/9.jpg)
 
 ## step 10:
 
-Put in mango dice.
+The milk on the surface and the mango inside are very sweet and delicious.
 
-![step 10]({{site.baseurl}}/img/452816/10.jpg)
-
-## step 11:
-
-Close the mouth and rub it round.
-
-![step 11]({{site.baseurl}}/img/452816/11.jpg)
-
-## step 12:
-
-Roll it on the coconut shreds and stick them on.
-
-![step 12]({{site.baseurl}}/img/452816/12.jpg)
-
-## step 13:
-
-Put it on the paper holder
-
-![step 13]({{site.baseurl}}/img/452816/13.jpg)
-
-## step 14:
-
-Wrap them all and put them in a sealed container.
-
-![step 14]({{site.baseurl}}/img/452816/14.jpg)
-
-## step 15:
-
-Refrigerate in the refrigerator for 2 hours. It tastes better.
-
-![step 15]({{site.baseurl}}/img/452816/15.jpg)
-
-## step 16:
-
-Soft skin Q, sweet mango.
-
-![step 16]({{site.baseurl}}/img/452816/16.jpg)
+![step 10]({{site.baseurl}}/img/451790/10.jpg)
 
 # Tips
 
-1. Mango should not be too ripe, water is not good bag.2. Good glutinous rice paste can be stored in refrigerator for 3 days.(Of course, it's best to eat as soon as possible. Fresh taste is the best.)
+The Works of Mier Zong, a Honey from Gourmet World
 
 # Info
 
-- Works by Elmonte from Food World
+- The Works of Mier Zong, a Honey from Gourmet World
 - Cookware used: steamer
 - Classification: snacks

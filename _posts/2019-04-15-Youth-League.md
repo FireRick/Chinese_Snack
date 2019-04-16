@@ -7,11 +7,11 @@ categories: Chinese_snacks_DIY
 
 # Youth League
 
-![Youth League]({{site.baseurl}}/img/452963/452963.jpg)
+![Youth League]({{site.baseurl}}/img/447180/447180.jpg)
 
 # Introduction
 
-**"In the Qingming Dynasty, make yourself a Youth League to eat."**
+**"Insect alarm has passed, the weather is getting warmer and warmer. In the spring, the Youth League is a very common food. It is easy to make and carry spring outings."**
 
 # Materials
 
@@ -20,109 +20,68 @@ categories: Chinese_snacks_DIY
 
 Material|Quantity
 --|--
-Argy wormwood|A bundle of
+Wormwood powder|12g
 Glutinous rice flour|300g
-Rice Flour|40g
-Salted Egg Yolk|10
-Red bean paste|Appropriate amount
-Dried meat floss|Appropriate amount
+lard|30g
+Wheat flour|90g
+Berry sugar|30-60g
+Fillings|500g
 
 ## accessories
 
 Material|Quantity
 --|--
-Powdered sugar|Appropriate amount
-Salad|Appropriate amount
+warm water|80g (Moxa powder)
+Boiling water|150g (for mixing clarified flour)
+hot water|120g (for dough)
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Salty sweet
+Flavor|Other
 Technology|steam
-time consuming|Hours
+time consuming|An hour
 difficulty|ordinary
 
 # Steps
 
 ## step 1:
 
-Prepare materials.
+Mix mugwort powder with water and sugar and mix well.
 
-![step 1]({{site.baseurl}}/img/452963/1.jpg)
+![step 1]({{site.baseurl}}/img/447180/1.jpg)
 
 ## step 2:
 
-Pick the tender leaves and wash them.
+Mix glutinous rice flour with clarified powder, add water and lard, pour in mugwort juice, stir and knead.
 
-![step 2]({{site.baseurl}}/img/452963/2.jpg)
+![step 2]({{site.baseurl}}/img/447180/2.jpg)
 
 ## step 3:
 
-Salted egg yolk is brushed with a layer of cooking wine (no rice wine at home) and baked in the oven at 150 C for about 10 minutes to cool down.
+The dough is divided into 35g portions and packed with prepared fillings.
 
-![step 3]({{site.baseurl}}/img/452963/3.jpg)
+![step 3]({{site.baseurl}}/img/447180/3.jpg)
 
 ## step 4:
 
-Mugwort boiled water, then put cold water over the water, put in the machine and add a little water to break into mugwort juice.
+Put it in a steaming pot and steam for 15-20 minutes (pay attention to a layer of anti-sticking paper).
 
-![step 4]({{site.baseurl}}/img/452963/4.jpg)
+![step 4]({{site.baseurl}}/img/447180/4.jpg)
 
 ## step 5:
 
-Glutinous rice flour, glutinous rice flour, sugar powder and appropriate amount of moxa grass juice knead into a smooth dough to wake up and set aside.
+Every green ball should be wrapped with fresh-keeping film to prevent sticking and drying.
 
-![step 5]({{site.baseurl}}/img/452963/5.jpg)
-
-## step 6:
-
-Mash the yolk in half, add some salad dressing and meat floss, and roll it into a ball (you eat it yourself, so you don't have to divide the filling into several parts.
-
-![step 6]({{site.baseurl}}/img/452963/6.jpg)
-
-## step 7:
-
-The remaining yolk is wrapped in red bean paste and you can see a layer of oil.
-
-![step 7]({{site.baseurl}}/img/452963/7.jpg)
-
-## step 8:
-
-The filling is ready for use.
-
-![step 8]({{site.baseurl}}/img/452963/8.jpg)
-
-## step 9:
-
-Take a pinch of dough and flatten the filling, then close it into a ball.
-
-![step 9]({{site.baseurl}}/img/452963/9.jpg)
-
-## step 10:
-
-Put the oil paper into small pieces and put them on the dough. Steam in an underwater pot for 10 minutes.
-
-![step 10]({{site.baseurl}}/img/452963/10.jpg)
-
-## step 11:
-
-Brush a layer of cooked oil (i.e. heated oil to cool) to prevent sticking. This is pork, egg yolk and green ball.
-
-![step 11]({{site.baseurl}}/img/452963/11.jpg)
-
-## step 12:
-
-Red bean yolk green ball.
-
-![step 12]({{site.baseurl}}/img/452963/12.jpg)
+![step 5]({{site.baseurl}}/img/447180/5.jpg)
 
 # Tips
 
-1. Sugar powder can be added or not.2. It tastes better after cooling.3. If the Youth League is placed in the refrigerator, it should be heated in a microwave oven before eating.4. Refrigerate for 2-3 days.
+When steaming, the bottom must be covered with anti-sticking oil paper. Preservation needs a fresh-keeping film, otherwise it will dry.
 
 # Info
 
-- Works from Xiaoxin 2066
-- Kitchenware used: electric oven, steamer
-- Classification: snacks, home-cooked dishes, Qingming Dynasty
+- Works from the small bourgeoisie in the world of gourmet food
+- Cookware used: steamer
+- Classification: snacks, home-cooked dishes

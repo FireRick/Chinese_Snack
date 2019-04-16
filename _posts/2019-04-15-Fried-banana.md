@@ -7,11 +7,7 @@ categories: Chinese_snacks_DIY
 
 # Fried banana
 
-![Fried banana]({{site.baseurl}}/img/452747/452747.jpg)
-
-# Introduction
-
-**"Eating more fruit in spring is good for your health.This is a simple delicacy.Bananas are rich in nutrition.Eggs and honey.In the way of explosion, the key is to pay attention to the temperature.**
+![Fried banana]({{site.baseurl}}/img/448405/448405.jpg)
 
 # Materials
 
@@ -20,77 +16,63 @@ categories: Chinese_snacks_DIY
 
 Material|Quantity
 --|--
-Banana|One root
-Egg|Two
-Coconut meat powder|Spoonful
+Banana|Appropriate amount
+Egg|Appropriate amount
 
 ## accessories
 
 Material|Quantity
 --|--
-Honey|Spoonful
-breadcrumbs|Spoonful
-Salad oil|One scoop
+breadcrumbs|Appropriate amount
+Edible oil|Appropriate amount
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Sweet taste
+Flavor|Original flavor
 Technology|Deep fried
-time consuming|Twenty minutes
+time consuming|Ten minutes
 difficulty|simple
 
 # Steps
 
 ## step 1:
 
-Peel and cut bananas.
+Raw materials.
 
-![step 1]({{site.baseurl}}/img/452747/1.jpg)
+![step 1]({{site.baseurl}}/img/448405/1.jpg)
 
 ## step 2:
 
-Add honey to two eggs.Beat with an egg beater until fully integrated.
+Peel bananas and cut them into sections. Beat the eggs and set aside.
 
-![step 2]({{site.baseurl}}/img/452747/2.jpg)
+![step 2]({{site.baseurl}}/img/448405/2.jpg)
 
 ## step 3:
 
-Put the cut bananas in the egg juice.Soak for 10 minutes.
+Pour more oil into the pan.
 
-![step 3]({{site.baseurl}}/img/452747/3.jpg)
+![step 3]({{site.baseurl}}/img/448405/3.jpg)
 
 ## step 4:
 
-Put bread bran in the dish (there can be no water in the dish).
+Bananas are wrapped in egg juice, wrapped in bread chaff and fried in a frying pan.
 
-![step 4]({{site.baseurl}}/img/452747/4.jpg)
+![step 4]({{site.baseurl}}/img/448405/4.jpg)
 
 ## step 5:
 
-Bananas in egg juice, evenly wrapped with bread bran.
+Finished products.
 
-![step 5]({{site.baseurl}}/img/452747/5.jpg)
-
-## step 6:
-
-Put salad oil in the pan and turn to minimum at 60% temperature.Bananas dipped in bran roll quickly twice.Control the oil out of the pot immediately.This one needs to be fried one by one, and it can't last long. The banana itself is ripe. Just turn it over twice.Fry it one by one to control oil.
-
-![step 6]({{site.baseurl}}/img/452747/6.jpg)
-
-## step 7:
-
-Oil control sprinkles coconut according to taste.Crispy outside and tender inside.
-
-![step 7]({{site.baseurl}}/img/452747/7.jpg)
+![step 5]({{site.baseurl}}/img/448405/5.jpg)
 
 # Tips
 
-Fried bananas must be fast.
+Works from the Beautiful Food World
 
 # Info
 
-- Works from Delicious Food, Rain and Xinxin
-- Kitchenware used: egg beater, pan
-- Classification: snacks, afternoon tea
+- Works from the Beautiful Food World
+- Cooking utensils used: frying pan
+- Classification: snacks

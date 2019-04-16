@@ -7,7 +7,7 @@ categories: Chinese_snacks_DIY
 
 # Pumpkin pie
 
-![Pumpkin pie]({{site.baseurl}}/img/452726/452726.jpg)
+![Pumpkin pie]({{site.baseurl}}/img/415766/415766.jpg)
 
 # Materials
 
@@ -16,111 +16,94 @@ categories: Chinese_snacks_DIY
 
 Material|Quantity
 --|--
-Yellow heart sweet potato|2
+Pumpkin|150g
+Glutinous rice flour|130g
 
 ## accessories
 
 Material|Quantity
 --|--
-Glutinous rice flour|Few
-wheat starch|Few
-Sugar|Few
+Red bean paste|30g
+White granulated sugar|20g
+breadcrumbs|30g
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Original flavor
-Technology|steam
-time consuming|Semih.
-difficulty|simple
+Flavor|Sweet taste
+Technology|Fry
+time consuming|An hour
+difficulty|ordinary
 
 # Steps
 
 ## step 1:
 
-Steamed and peeled two small sweet potatoes.
+Prepare ingredients and slice pumpkin.Steam in a pan.
 
-![step 1]({{site.baseurl}}/img/452726/1.jpg)
+![step 1]({{site.baseurl}}/img/415766/1.jpg)
 
 ## step 2:
 
-Put it in a bowl and press it into mud with a tool.
+Pumpkins are crushed into mud.
 
-![step 2]({{site.baseurl}}/img/452726/2.jpg)
+![step 2]({{site.baseurl}}/img/415766/2.jpg)
 
 ## step 3:
 
-The pressure is good.
+Add glutinous rice flour and sugar.
 
-![step 3]({{site.baseurl}}/img/452726/3.jpg)
+![step 3]({{site.baseurl}}/img/415766/3.jpg)
 
 ## step 4:
 
-Put sugar in a small bowl.
+Knead into dough.
 
-![step 4]({{site.baseurl}}/img/452726/4.jpg)
+![step 4]({{site.baseurl}}/img/415766/4.jpg)
 
 ## step 5:
 
-Add a little water, don't add more, or it won't form.
+Squeeze a dumpling, spread it out a little, put in the bean paste, wrap it up, knead and flatten it.
 
-![step 5]({{site.baseurl}}/img/452726/5.jpg)
+![step 5]({{site.baseurl}}/img/415766/5.jpg)
 
 ## step 6:
 
-Clear face is wheat starch.
+Stick bread bran on top.
 
-![step 6]({{site.baseurl}}/img/452726/6.jpg)
+![step 6]({{site.baseurl}}/img/415766/6.jpg)
 
 ## step 7:
 
-Add two small spoons of clarified noodles to the mashed sweet potatoes. If there is no clarified noodles, add them to the mashed sweet potatoes.
+A good embryo.
 
-![step 7]({{site.baseurl}}/img/452726/7.jpg)
+![step 7]({{site.baseurl}}/img/415766/7.jpg)
 
 ## step 8:
 
-Put in the glutinous rice flour, the glutinous rice flour is several times more than the clear surface.
+Cook in oil until 67 0 0 0 0 0 0 0 0 0 0 
 
-![step 8]({{site.baseurl}}/img/452726/8.jpg)
+![step 8]({{site.baseurl}}/img/415766/8.jpg)
 
 ## step 9:
 
-I use this glutinous rice flour.
+Finished products.
 
-![step 9]({{site.baseurl}}/img/452726/9.jpg)
+![step 9]({{site.baseurl}}/img/415766/9.jpg)
 
 ## step 10:
 
-Slowly add sugar water and knead into a round ball.
+Finished products.
 
-![step 10]({{site.baseurl}}/img/452726/10.jpg)
-
-## step 11:
-
-Oil is first brushed into the mould, a small dough is rounded by hand, sticky glutinous rice powder outside is put into the mould and pressed flat, then buckled out.
-
-![step 11]({{site.baseurl}}/img/452726/11.jpg)
-
-## step 12:
-
-Four together pressure, happiness, wealth, longevity, happiness.
-
-![step 12]({{site.baseurl}}/img/452726/12.jpg)
-
-## step 13:
-
-Done.The pot boils water, brushes oil on the plate, steames in the cake big fire for 10 minutes, then comes out the pot to boil and eats...
-
-![step 13]({{site.baseurl}}/img/452726/13.jpg)
+![step 10]({{site.baseurl}}/img/415766/10.jpg)
 
 # Tips
 
-Works from Sister Xinjie's Kitchen
+Works from the Food World Jane 9L
 
 # Info
 
-- Works from Sister Xinjie's Kitchen
-- Cooking utensils used: others
-- Classification: snacks, home-cooked dishes, students
+- Works from the Food World Jane 9L
+- Cooking utensils used: frying pan
+- Classification: snacks

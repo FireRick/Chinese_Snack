@@ -7,11 +7,7 @@ categories: Chinese_snacks_DIY
 
 # Potato chips
 
-![Potato chips]({{site.baseurl}}/img/452751/452751.jpg)
-
-# Introduction
-
-**"No kid doesn't like potato chips.Today we make a new potato.Clean and sanitary, crisp and delicious."**
+![Potato chips]({{site.baseurl}}/img/402419/402419.jpg)
 
 # Materials
 
@@ -20,25 +16,20 @@ categories: Chinese_snacks_DIY
 
 Material|Quantity
 --|--
-New potatoes|3
+Potato|Appropriate amount
 
 ## accessories
 
 Material|Quantity
 --|--
-Salad oil|One scoop
-BBQ Powder|Half spoon
-five-spice powder|Half spoon
-Salt and pepper|Few
-Chicken essence|Few
-Cumin powder|Few
-White sesame seeds|Half spoon
+Salt and pepper|Appropriate amount
+Peanut oil|Appropriate amount
 
 # Characteristics
 
 Property|--
 --|--
-Flavor|Spiced
+Flavor|Original flavor
 Technology|Deep fried
 time consuming|Twenty minutes
 difficulty|simple
@@ -47,64 +38,64 @@ difficulty|simple
 
 ## step 1:
 
-The new potatoes are peeled and sliced with a wave knife.
+Main ingredients: potatoes.
 
-![step 1]({{site.baseurl}}/img/452751/1.jpg)
+![step 1]({{site.baseurl}}/img/402419/1.jpg)
 
 ## step 2:
 
-Wash starch to control moisture.
+Peel potatoes.
 
-![step 2]({{site.baseurl}}/img/452751/2.jpg)
+![step 2]({{site.baseurl}}/img/402419/2.jpg)
 
 ## step 3:
 
-Oil in the pan, potatoes at six layers of temperature, and fry dry water in a large fire.We turn the pan by hand to heat it evenly.
+Slice the potatoes thickly.
 
-![step 3]({{site.baseurl}}/img/452751/3.jpg)
+![step 3]({{site.baseurl}}/img/402419/3.jpg)
 
 ## step 4:
 
-When the fried potatoes are a little dry, turn to low heat and continue to fry for 10 to 20 minutes.
+Slices of potatoes are cut into strips.
 
-![step 4]({{site.baseurl}}/img/452751/4.jpg)
+![step 4]({{site.baseurl}}/img/402419/4.jpg)
 
 ## step 5:
 
-Mix it evenly with all the seasonings and set aside.According to personal preferences to modulate.
+Heat the pan and pour in some peanut oil.
 
-![step 5]({{site.baseurl}}/img/452751/5.jpg)
+![step 5]({{site.baseurl}}/img/402419/5.jpg)
 
 ## step 6:
 
-Then open a fire and blast the epidermis in a complex way until the epidermis is dry.
+Potato chips into the pot, the big fire will boil peanut oil, turn the small heat slowly fried potato chips, fry the process from time to time with a spade, can let the potato chips heat evenly, prevent the potato paste.
 
-![step 6]({{site.baseurl}}/img/452751/6.jpg)
+![step 6]({{site.baseurl}}/img/402419/6.jpg)
 
 ## step 7:
 
-Start the pan and control the oil.
+Deep-fried potatoes until golden brown, then pour them into a filter to drain the oil.
 
-![step 7]({{site.baseurl}}/img/452751/7.jpg)
+![step 7]({{site.baseurl}}/img/402419/7.jpg)
 
 ## step 8:
 
-Sprinkle the seasoning.Don't stir with utensils, we shake gently with our hands.Cover evenly.
+Put the dried potato chips into the pot and stir-fry them evenly over high heat with a proper amount of salt and pepper.
 
-![step 8]({{site.baseurl}}/img/452751/8.jpg)
+![step 8]({{site.baseurl}}/img/402419/8.jpg)
 
 ## step 9:
 
-It's delicious.Very crisp.
+Sheng pan.
 
-![step 9]({{site.baseurl}}/img/452751/9.jpg)
+![step 9]({{site.baseurl}}/img/402419/9.jpg)
 
 # Tips
 
-Cut the potatoes thin.Pay attention to fire control. This dish will be delicious.
+Works by Hgingingin from Gourmet World
 
 # Info
 
-- Works from Delicious Food, Rain and Xinxin
-- Cooking utensils used: pans
-- Classification: snacks, afternoon tea
+- Works by Hgingingin from Gourmet World
+- Cooking utensils used: frying pan
+- Classification: snacks, summer recipes
