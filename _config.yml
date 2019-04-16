@@ -1,6 +1,9 @@
 title: Chinese_Snack | Path2China.com
 description: A website for sharing Chinese Snacks
 
+baseurl: "/Chinese_Snack"
+url: "https://path2china.com"
+
 theme: jekyll-theme-cayman
 permalink: /posts/:title.html
 
