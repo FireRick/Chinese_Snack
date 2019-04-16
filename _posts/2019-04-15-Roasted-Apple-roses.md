@@ -7,7 +7,7 @@ categories: Chinese_snacks_DIY
 
 # Roasted Apple roses
 
-![Roasted Apple roses](/img/453496/453496.jpg)
+![Roasted Apple roses](img/453496/453496.jpg)
 
 # Introduction
 
