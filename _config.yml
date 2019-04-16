@@ -1,12 +1,10 @@
 title: Chinese_Snack | Path2China.com
-author: FireRick
-email: rickdonma@gmail.com
 description: A website for sharing Chinese Snacks
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
+permalink: /posts/:title.html
 
-baseurl: "/Chinese_Snack"
-url: "path2china.com"
+google_analytics: UA-136933861-1
 
 plugins:
     - jekyll-feed
