@@ -8,7 +8,3 @@ theme: jekyll-theme-cayman
 permalink: /posts/:title.html
 
 google_analytics: UA-136933861-1
-
-plugins:
-    - jekyll-feed
-    - jekyll-sitemap

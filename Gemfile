@@ -15,6 +15,7 @@ gem "jekyll", "~> 3.8.5"
 gem "minima", "~> 2.0"
 gem 'jekyll-theme-tactile', '~> 0.1.1'
 gem "jekyll-theme-cayman","~>0.1.1"
+gem 'jekyll-theme-minimal', '~> 0.1.1'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -22,13 +23,14 @@ gem "jekyll-theme-cayman","~>0.1.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem 'jekyll-feed', '~> 0.12.1'
+  gem 'jekyll-seo-tag', '~> 2.6'
+  gem 'jekyll-sitemap', '~> 1.3', '>= 1.3.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "jekyll-sitemap"
