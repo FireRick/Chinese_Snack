@@ -1,10 +1,12 @@
 title: Chinese Snack | Path2China.com
-description: A website for sharing Chinese Snacks
+description: There are more than 1500 kinds of Chinese snack recipes here. Friends who like DIY and delicious food must not miss them. Collect them quickly. When you are free, try it. If you have a passion for Chinese cuisine, you should be thrilled to see this page. XD
 
 baseurl: "/Chinese_Snack"
 url: "https://path2china.com"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 permalink: /posts/:title.html
+
+logo: https://path2china.com/logo.png
 
 google_analytics: UA-136933861-1
